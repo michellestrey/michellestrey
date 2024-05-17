@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @michellestrey
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Java.
+-💻 First semester of Systems Analysis.
+- CEFR Level B2
 - 📫 How to reach me: https://www.instagram.com/michellestreygtr
+
 
 <!---
 michellestrey/michellestrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
