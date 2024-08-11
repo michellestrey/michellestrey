@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java.
 -💻 First semester of Systems Analysis.
 
-- 📫 How to reach me: https://www.instagram.com/michellestreygtr
+- 📫 How to reach me: https://www.instagram.com/michellestreygtr or
                        https://www.linkedin.com/in/michelle-strey-864019272/
 
 <!---
