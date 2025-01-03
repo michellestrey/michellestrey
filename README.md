@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michellestrey
 
--💻 First semester of Systems Analysis.
+-💻 Second semester of Systems Analysis.
 JAVA | MYSQL | C ...
 - 📫 How to reach me: https://www.instagram.com/michellestreygtr or
                        https://www.linkedin.com/in/michelle-strey-864019272/
