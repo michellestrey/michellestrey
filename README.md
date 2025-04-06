@@ -49,6 +49,7 @@
 
 - GitHub: [https://github.com/michellestrey](https://github.com/michellestrey)  
 - LinkedIn: [https://www.linkedin.com/in/michelle-strey-864019272/](https://www.linkedin.com/in/michelle-strey-864019272/)
+- E-mail: michelledev@engineer.com
 
 ---
 
