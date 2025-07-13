@@ -14,7 +14,10 @@
 
 #### 🖥️ Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🛠️ Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -48,8 +51,8 @@
 ### 🌐 Where to find me
 
 - GitHub: [https://github.com/michellestrey](https://github.com/michellestrey)  
-- LinkedIn: [https://www.linkedin.com/in/michellestrey](https://www.linkedin.com/in/michellestrey/)
-- E-mail: [michelledev@engineer.com](michelledev@engineer.com)
+- LinkedIn: [https://www.linkedin.com/in/michellestrey](https://www.linkedin.com/in/michellestrey/)  
+- E-mail: [michelledev@engineer.com](mailto:michelledev@engineer.com)
 
 ---
 
