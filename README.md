@@ -8,7 +8,7 @@
 
 🗣️ English: Level **B2 (upper-intermediate)** — constantly practicing to reach fluency!
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=michellestrey&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=michellestrey&layout=compact&theme=synthwave)
 
 
 
