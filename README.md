@@ -39,7 +39,7 @@
 ---
 
 ### 🌐 Where to find me
-
+   https://michellestrey.github.io/
 - GitHub: [https://github.com/michellestrey](https://github.com/michellestrey)  
 - LinkedIn: [https://www.linkedin.com/in/michellestrey](https://www.linkedin.com/in/michellestrey/)  
 - E-mail: [michelledev@engineer.com](mailto:michelledev@engineer.com)
