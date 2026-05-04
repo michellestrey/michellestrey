@@ -5,11 +5,12 @@
 🛠️ Detail-oriented and dedicated: I love making things **work well and look great**!  
 📈 Fascinated by algorithm performance and always diving into **Big O Notation**.  
 ☕ Interested in **OOP** and **microservices architecture**, even at the early stages of my journey.
+
 🚧 Actually studying TDD and Clean Code.
 
 🗣️ English: Level **B2 (upper-intermediate)** — constantly practicing to reach fluency!
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=michellestrey&layout=compact&theme=synthwave)
+
 
 
 
