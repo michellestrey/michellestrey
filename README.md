@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Michelle Strey!
 
-🎓 I'm a **4nd-semester Software Development student**, passionate about **Java** and the **Spring ecosystem**.  
+🎓 I'm a **5nd-semester Software Development student**, passionate about **Java** and the **Spring ecosystem**.  
 📚 _Lifelong learner_ — I'm always looking to expand my knowledge.  
 🛠️ Detail-oriented and dedicated: I love making things **work well and look great**!  
 📈 Fascinated by algorithm performance and always diving into **Big O Notation**.  
